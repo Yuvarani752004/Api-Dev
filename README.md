@@ -1,8 +1,4 @@
-Got you 👍 Here’s a **professional README.md** template you can drop straight into your GitHub repo for the RESTful API project:
 
----
-
-```markdown
 # RESTful API Project
 
 A simple RESTful API built with **Node.js, Express, and MongoDB** to demonstrate CRUD operations.  
@@ -137,7 +133,7 @@ Content-Type: application/json
 **Yuvarani**
 Task submitted to: **RP Software Solutions**
 
-```
+
 
 ---
 
